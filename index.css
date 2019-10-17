@@ -1,0 +1,29 @@
+*{
+    margin: 0 auto;
+    box-sizing: border-box;
+    font-family: raleway;
+
+}
+#root{
+    width: 100vw;
+    height: 100vh;
+    background-color: #38393c;
+    color: #fefefe;
+    font-weight: 500;
+    font-size: 12px;
+    padding: 1em 1em;
+}
+button{
+    background-color: #f8f9fc;
+    padding: 1em 2em;
+    border: solid 1px #38393c;
+    border-radius: 5em;
+    font-weight: 700;
+    font-size: 15px;
+    border: solid 3px#1dbd18; 
+
+}
+button:hover{
+    background-color: #1dbd18;
+    color: #fefefe;
+}
